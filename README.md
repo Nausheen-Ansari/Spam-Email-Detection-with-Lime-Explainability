@@ -1,0 +1,1 @@
+This project builds a spam email detection system using TF-IDF and a Multinomial Naïve Bayes model, achieving high accuracy. WordClouds highlight common spam and ham terms, while LIME provides interpretability by showing word-level contributions to predictions. The system is accurate, transparent, and useful for real-world spam filtering.
